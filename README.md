@@ -1,5 +1,5 @@
 # CW_Attack_on_MNIST
-Implemention of cw attack on pytorch with corresponding MNIST model
+Implemention of cw attack on pytorch with corresponding MNIST model(Todo: 先写个简单的中文版，这几天补上完整的英文描述，再写一篇blog)
 
 ## MNIST model
 根据[Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/abs/1608.04644) p6的TABLE1搭建  
