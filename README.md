@@ -15,3 +15,5 @@ def loss1_func(w,x,d,c):
 ```
 You can define different objective function f in ```def f(output,tlab,target,k=0)```
 
+## Blog(Written in Chinese)
+[CW Attack](https://blog.andrmapper.cn/2020/08/17/CWAttack论文阅读与复现/)
