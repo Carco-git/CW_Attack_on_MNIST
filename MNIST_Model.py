@@ -32,3 +32,6 @@ class MNIST_Model(nn.Module):
         x = F.relu(x)
 #         x = F.log_softmax(x,dim=1)
         return x
+
+from torchvision import models
+model = models.alexnet(pretrained=True)
